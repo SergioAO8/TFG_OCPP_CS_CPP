@@ -1,4 +1,4 @@
-# TFG_OCPP_CS
+# TFG_OCPP_CS_CPP
 Sistema de control OCPP en C++, amb interfície d'usuari web (Flaks, HTML, CSS y JavaScript).
 
 # A.2. Execució del sistema localment
