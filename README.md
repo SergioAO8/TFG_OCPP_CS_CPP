@@ -31,7 +31,12 @@ Per compilar-lo, cal accedir al directori següent:
 nucli_sistema/ocpp_cs/
 ```
 
-Un cop dins del directori, s’ha d’executar la comanda:
+Un cop dins del directori, s’ha d’executar la comanda per crear la llibreria de json:
+
+```bash
+make libjsoncodec
+```
+I la següent comanda:
 
 ```bash
 make
